@@ -150,7 +150,7 @@
 ##b = int(input('give a power to the number:'))
 ##print(a**b)
         
-##check if the number is prime number
+
 
 
 
